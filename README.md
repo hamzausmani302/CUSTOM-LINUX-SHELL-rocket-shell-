@@ -13,3 +13,7 @@ before setup , Must gave g++ and lreadline installed in your system
 
 run :=  sudo apt install g++ lreadline
 then run setup.exe
+
+MADE BY:-
+ALI HAMZA USMANI
+MUHAMMAD IBAD SALEEM
