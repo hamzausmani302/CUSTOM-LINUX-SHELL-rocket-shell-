@@ -16,4 +16,5 @@ then run setup.exe
 
 MADE BY:-
 ALI HAMZA USMANI
+ &
 MUHAMMAD IBAD SALEEM
